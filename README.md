@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there 👋 I'm Sota 🌱
 
-<!--
-**Sotaaan0/Sotaaan0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I'm currently working on **SearchVox** — a deepfake & fake news detecting app
+　　　　　　　　　　　　　　that cross-checks videos and social posts against official Japanese parliament records.
 
-Here are some ideas to get you started:
+🌱 I'm currently learning **Node.js / Express · Firebase · REST API design**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I'm looking to collaborate with fellow beginner engineers &
+　　　　　　　　　　　　　　anyone passionate about AI, misinformation, or media literacy.
+
+💬 Ask me about **building something real from zero · fact-checking tech · startup stories**
+
+📫 How to reach me: *(SNS / podcast links here)*
+
+⚡ Fun facts:
+　· 🎓 M2 @ Tohoku University (Environmental Science) ×
+　　　　Double Degree at KTH Royal Institute of Technology, Sweden
+　　　　— MSc Transportation & Geoinformation Technology
+　· 🎙️ I run a podcast interviewing startup founders
+　· 🌍 I speak Japanese & English — currently building in both
