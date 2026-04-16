@@ -11,6 +11,6 @@
 📫 How to reach me: *(SNS / podcast links here)*
 
 ⚡ Fun facts:
-　· 🎓 M2 @ Tohoku University (Environmental Science) × Double Degree at KTH Royal Institute of Technology, Sweden — MSc Transportation & Geoinformation Technology
-　· 🎙️ I run a podcast interviewing startup founders
-　· 🌍 I speak Japanese & English — currently building in both
+· 🎓 M2 @ Tohoku University (Environmental Science) × Double Degree at KTH Royal Institute of Technology, Sweden — MSc Transportation & Geoinformation Technology
+· 🎙️ I run a podcast interviewing startup founders
+· 🌍 I speak Japanese & English — currently building in both
